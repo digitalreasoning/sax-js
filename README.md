@@ -106,6 +106,7 @@ Settings supported:
 * `strictEntities` - Boolean. If true, only parse [predefined XML
   entities](http://www.w3.org/TR/REC-xml/#sec-predefined-ent)
   (`&amp;`, `&apos;`, `&gt;`, `&lt;`, and `&quot;`)
+* `ignoreEntities` - Boolean. If true, then don't attempt to parse any XML/HTML entities.
 
 ## Methods
 
